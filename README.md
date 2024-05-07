@@ -21,5 +21,3 @@ To run these tests, you need the following installed on your system:
 
 1. **Log In:** Attempts to log in using a locked out user's credentials.
 2. **Verify Error Message:** Verifies that the correct error message is displayed when login fails.
-
-## Results
